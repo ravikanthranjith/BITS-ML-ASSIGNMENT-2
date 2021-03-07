@@ -21,4 +21,4 @@ This is for the Machine Learning Assignment 2
   
 </ol>
 
-## The File to be used is uploaded in the <a href="www.google.com" >Link</a>
+## The File to be used is uploaded in the <a href="https://raw.githubusercontent.com/ravikanthranjith/BITS-ML-ASSIGNMENT-2/main/diamonds.csv" >Link</a>
